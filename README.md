@@ -6,7 +6,7 @@ Nessa atividade, vamos dar os primeiros passos com JavaScript, praticando com a 
 
 - Nome: Luis Guilherme Pacheco Noacco
 - Matricula: 915981
-    
+     
 ## Print do console do navegador
 
 ![Demonstração do Simulador](public/consoleprint.png)
