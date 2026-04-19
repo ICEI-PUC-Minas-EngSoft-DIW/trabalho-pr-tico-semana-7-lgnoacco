@@ -4,8 +4,8 @@ Nessa atividade, vamos dar os primeiros passos com JavaScript, praticando com a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
+- Nome: Luis Guilherme Pacheco Noacco
+- Matricula: 915981
 
 ## Print do console do navegador
 
